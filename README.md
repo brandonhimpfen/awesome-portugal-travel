@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Portugal, covering official tourism boards, train networks, regional guides, historic towns, and digital nomad options.
 
+Portugal is a scenic southwestern European destination boasting historic maritime heritage, sun-drenched Atlantic coasts, terraced river valleys, and vibrant cultural cities. This list is intended for cultural travelers, coastal explorers, digital nomads, and wine-tour enthusiasts.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
